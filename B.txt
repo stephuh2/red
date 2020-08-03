@@ -1,0 +1,4 @@
+Adding a new file B.txt to v1.0.0 branch.
+
+Well, I changed my mind. Adding more to it... What's up?
+
